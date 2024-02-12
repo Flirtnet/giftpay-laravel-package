@@ -1,3 +1,4 @@
+<?php
 // FlirtnetGiftValidationController.php
 
 namespace YourNamespace\FlirtnetGift\Controllers;
