@@ -1,3 +1,4 @@
+<?php
 // FlirtnetGiftWebhookController.php
 
 namespace YourNamespace\FlirtnetGift\Controllers;
