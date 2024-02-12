@@ -1,15 +1,14 @@
 <?php
-// FlirtnetGiftValidationController.php
 
 namespace YourNamespace\FlirtnetGift\Controllers;
 
-use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use YourNamespace\FlirtnetGift\Controllers\Controller;
 
 class FlirtnetGiftValidationController extends Controller
 {
     public function validatePayment(Request $request)
     {
-        // Implement payment validation logic here
+        // Implement your payment validation logic here
     }
 }
