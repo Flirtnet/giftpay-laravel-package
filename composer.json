@@ -1,0 +1,13 @@
+{
+    "extra": {
+        "laravel": {
+            "dont-discover": [],
+            "publish": [
+                {
+                    "from": "src/Views",
+                    "to": "resources/views/vendor/flirtnet-gift"
+                }
+            ]
+        }
+    }
+}
